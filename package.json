@@ -1,0 +1,27 @@
+{
+  "name": "progressive-budget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sg3606/Progressive-Budget.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sg3606/Progressive-Budget/issues"
+  },
+  "homepage": "https://github.com/sg3606/Progressive-Budget#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.6.1",
+    "mongoose": "^5.12.13",
+    "morgan": "^1.10.0"
+  }
+}
