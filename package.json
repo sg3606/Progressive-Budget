@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "lite-server":"lite-server"
+    "lite-server": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
+    "install": "^0.13.0",
     "lite-server": "^2.6.1",
     "mongoose": "^5.12.13",
     "morgan": "^1.10.0"
