@@ -1,0 +1,13 @@
+{
+    "icons": [
+     
+    ],
+    "name": "Newsy app",
+    "short_name": "Newsy",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "/",
+    "background_color": "#01579b",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff"
+  }
